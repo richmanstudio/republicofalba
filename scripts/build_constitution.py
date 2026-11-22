@@ -42,6 +42,7 @@ c.setFont("Times-Bold",14);c.drawCentredString(X,H-43*mm,"ALBA")
 c.setFont("Times-Roman",17);c.drawCentredString(X,H-57*mm,'LAWI DE "Alba"')
 c.setFont("Times-Italic",10);c.drawCentredString(X,H-65*mm,"SAMA 0.16.0 / DOKU 0.1")
 y=H-89*mm
+counter=1
 for title, verses in [
     ("KOMA",['"Alba" bi koma de sitano li.',"Sitano li bi soma.","Tawa sitano li bi sama."]),
     ("LAWI",['Lawi de "Alba" bi yoma.']),
@@ -49,8 +50,8 @@ for title, verses in [
 ]:
     c.setFont("Times-Bold",14);c.drawCentredString(X,y,title);y-=13*mm
     for verse in verses:
-        n=1+sum(len(part) for heading,part in [("KOMA",['a','b','c'])] if False)
-        c.setFont("Times-Roman",14);c.drawString(L+12.5*mm,y,verse);y-=12*mm
+        c.setFont("Times-Roman",14);c.drawString(L+12.5*mm,y,f"{counter}. {verse}");y-=12*mm
+        counter += 1
     y-=8*mm
 c.setFont("Times-Roman",10);c.drawCentredString(X,27*mm,"ALBA / SAMA / DOKU 0.1")
 c.save()
