@@ -27,3 +27,6 @@
 ## Процесс
 
 Каждое новое принятое решение фиксируется отдельно и затем синхронизируется с оригиналом SAMA после нормативного утверждения необходимой терминологии в [репозитории SAMA](https://github.com/richmanstudio/worldwidesamaianlanguage).
+## SAMA terminology readiness
+
+By the founder's decision, original official documents must be in **SAMA**. Before writing Chapter I, constitutional legal vocabulary and grammar for all 14 chapters must be adopted and checked. The current legal inventory is 338 concepts and 81 *unaccepted* word proposals. Details: [Constitution SAMA readiness gate](docs/CONSTITUTION-SAMA-GATE.md). The existing PDF remains a typographic and linguistic prototype, not an enacted constitution.
