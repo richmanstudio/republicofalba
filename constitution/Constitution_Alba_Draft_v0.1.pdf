@@ -1,0 +1,78 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Count 2 /Kids [3 0 R 4 0 R] >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.276 841.89] /Resources << /Font << /F1 5 0 R /F2 6 0 R /F3 7 0 R >> >> /Contents 8 0 R >>
+endobj
+4 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.276 841.89] /Resources << /Font << /F1 5 0 R /F2 6 0 R /F3 7 0 R >> >> /Contents 9 0 R >>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Times-Roman >>
+endobj
+6 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Times-Bold >>
+endobj
+7 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Times-Italic >>
+endobj
+8 0 obj
+<< /Length 701 >>
+stream
+0.36 0.085 0.14 rg 0 0 595.276 841.89 re f
+0.79 0.67 0.447 RG 0.9 w 62.36 62.36 470.55 717.17 re S
+0.3 w 70.87 70.87 453.54 700.16 re S
+1.2 w 297.6 644 m 340 644 374 610 374 567 c 374 525 340 491 297.6 491 c 255 491 221 525 221 567 c 221 610 255 644 297.6 644 c S
+297.6 622 m 328 622 352 598 352 567 c 352 537 328 513 297.6 513 c 267 513 243 537 243 567 c 243 598 267 622 297.6 622 c S
+297.6 612 m 338 538 l 257 538 l h S
+0.8 w 275 574 m 320 574 l S
+0.79 0.67 0.447 rg
+BT /F2 37 Tf 265.8 415.0 Td (ALBA) Tj ET
+BT /F1 18 Tf 243.5 341.0 Td (LAWI DE "Alba") Tj ET
+BT /F1 12 Tf 277.0 322.0 Td (DOKU 0.1) Tj ET
+BT /F1 10 Tf 274.0 139.0 Td (SAMA 0.16.0) Tj ET
+BT /F1 10 Tf 276.1 118.0 Td (22.11.2026) Tj ET
+endstream
+endobj
+9 0 obj
+<< /Length 845 >>
+stream
+0.97 0.96 0.935 rg 0 0 595.276 841.89 re f
+0.12 0.11 0.1 rg 0.79 0.67 0.447 RG 0.5 w 85 762 m 553 762 l S
+BT /F1 10 Tf 295.5 815.0 Td (2) Tj ET
+BT /F2 14 Tf 285.6 715.0 Td (ALBA) Tj ET
+BT /F1 17 Tf 246.5 684.0 Td (LAWI DE "Alba") Tj ET
+BT /F3 10 Tf 250.3 661.0 Td (SAMA 0.16.0 / DOKU 0.1) Tj ET
+BT /F2 14 Tf 285.6 592.0 Td (KOMA) Tj ET
+BT /F1 14 Tf 120.0 554.0 Td (1. "Alba" bi koma de sitano li.) Tj ET
+BT /F1 14 Tf 120.0 520.0 Td (2. Sitano li bi soma.) Tj ET
+BT /F1 14 Tf 120.0 486.0 Td (3. Tawa sitano li bi sama.) Tj ET
+BT /F1 14 Tf 120.0 380.0 Td (4. Lawi de "Alba" bi yoma.) Tj ET
+BT /F1 14 Tf 120.0 281.0 Td (5. Eleka bi yoma.) Tj ET
+BT /F2 14 Tf 285.6 425.0 Td (LAWI) Tj ET
+BT /F2 14 Tf 282.6 327.0 Td (ELEKA) Tj ET
+0.79 0.67 0.447 RG 0.5 w 85 100 m 553 100 l S
+0.12 0.11 0.1 rgBT /F1 10 Tf 250.3 75.0 Td (ALBA / SAMA / DOKU 0.1) Tj ET
+endstream
+endobj
+xref
+0 10
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000121 00000 n 
+0000000274 00000 n 
+0000000427 00000 n 
+0000000499 00000 n 
+0000000570 00000 n 
+0000000643 00000 n 
+0000001394 00000 n 
+trailer
+<< /Size 10 /Root 1 0 R >>
+startxref
+2289
+%%EOF
